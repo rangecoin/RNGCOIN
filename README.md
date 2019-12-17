@@ -1,5 +1,5 @@
 # rangecoin.github.io
 
-rangecoin: RNG, The Immaculate Merge Drop
+rangecoin: RNG, The First all in one marketplaces.
 
 Patches Welcome!
